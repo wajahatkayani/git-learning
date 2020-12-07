@@ -24,3 +24,4 @@ values ('6' , 'usman' , '22' , 'Karachi' , '32000' );
 
 select * from employes;
 
+add comment
